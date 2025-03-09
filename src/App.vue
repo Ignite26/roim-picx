@@ -52,7 +52,7 @@ import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from "element-plus/es/locale/lang/zh-cn"
 
 	
-const appName = 'Pinhaa's'
+const appName = 'Pinhaa'
 
 document.title = appName
 
